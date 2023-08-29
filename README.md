@@ -1,1 +1,1 @@
-# Palavras
+# Palavras apenas
